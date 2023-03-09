@@ -1,9 +1,5 @@
-import React from 'react'
-
-const NewEventPage = () => {
-  return (
-    <div>NewEventPage</div>
-  )
+function NewEventPage() {
+  return <h1>NewEventPage</h1>;
 }
 
-export default NewEventPage
+export default NewEventPage;

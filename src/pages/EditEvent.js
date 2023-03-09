@@ -1,11 +1,5 @@
-import React from 'react'
-
-const EditEventPage = () => {
-  return (
-    <div>
-      <h1>EditEventPage</h1>
-    </div>
-  )
+function EditEventPage() {
+  return <h1>EditEventPage</h1>;
 }
 
-export default EditEventPage
+export default EditEventPage;
